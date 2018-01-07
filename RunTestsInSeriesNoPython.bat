@@ -1,0 +1,1 @@
+java -cp "robotframework-2.7.6.jar;ScenarioFramework-jar-with-dependencies.jar" org.robotframework.RobotFramework %*

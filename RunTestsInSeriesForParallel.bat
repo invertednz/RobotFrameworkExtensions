@@ -1,0 +1,1 @@
+jybot --listener scenario.framework.main.RobotFrameworkListener %*

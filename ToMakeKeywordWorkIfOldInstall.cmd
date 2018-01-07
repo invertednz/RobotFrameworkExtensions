@@ -1,0 +1,1 @@
+copy settings.cfg c:\users\%USERNAME%\AppData\Roaming\RobotFramework\ride /Y
